@@ -1,0 +1,2830 @@
+[
+ {
+  "ItemName": "SawChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 279,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Saw"
+ },
+ {
+  "ItemName": "BonebladeChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 280,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Boneblade"
+ },
+ {
+  "ItemName": "GingerbladeChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 281,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Gingerblade"
+ },
+ {
+  "ItemName": "DeathshardChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 282,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Deathshard"
+ },
+ {
+  "ItemName": "SeerChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 283,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Seer"
+ },
+ {
+  "ItemName": "FangChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 284,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Fang"
+ },
+ {
+  "ItemName": "TidesChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 285,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Tides"
+ },
+ {
+  "ItemName": "SlasherChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 286,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Slasher"
+ },
+ {
+  "ItemName": "SharkChroma",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 287,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Shark"
+ },
+ {
+  "ItemName": "GemstoneChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 288,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Gemstone"
+ },
+ {
+  "ItemName": "HeatChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 289,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Heat"
+ },
+ {
+  "ItemName": "LugerChroma",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 290,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Luger"
+ },
+ {
+  "ItemName": "LaserChroma",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 291,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Laser"
+ },
+ {
+  "ItemName": "ChromaLightbringer",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 292,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Lightbringer"
+ },
+ {
+  "ItemName": "ChromaDarkbringer",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 293,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Darkbringer"
+ },
+ {
+  "ItemName": "SwirlyGunChroma",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 294,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Swirly Gun"
+ },
+ {
+  "ItemName": "CandleflameChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 295,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Candleflame"
+ },
+ {
+  "ItemName": "Gingermint_KChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 296,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Cookiecane"
+ },
+ {
+  "ItemName": "ElderwoodKnifeChroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 297,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Elderwood Blade"
+ },
+ {
+  "ItemName": "TravelerGunChroma",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 298,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Traveler's Gun"
+ },
+ {
+  "ItemName": "TreeGun2023Chroma",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 299,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Evergun"
+ },
+ {
+  "ItemName": "TreeKnife2023Chroma",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 300,
+  "Type": "Weapon",
+  "Chroma": "True",
+  "Name": "Evergreen"
+ },
+ {
+  "ItemName": "Icewing",
+  "Rarity": "Ancient",
+  "ItemType": "Knife",
+  "ID": 174,
+  "Type": "Weapon",
+  "Name": "Icewing"
+ },
+ {
+  "ItemName": "Logchopper",
+  "Rarity": "Ancient",
+  "ItemType": "Knife",
+  "ID": 175,
+  "Type": "Weapon",
+  "Name": "Logchopper"
+ },
+ {
+  "ItemName": "Scythe",
+  "Rarity": "Ancient",
+  "ItemType": "Knife",
+  "ID": 176,
+  "Type": "Weapon",
+  "Name": "Batwing"
+ },
+ {
+  "ItemName": "Hallowscythe",
+  "Rarity": "Ancient",
+  "ItemType": "Knife",
+  "ID": 177,
+  "Type": "Weapon",
+  "Name": "Hallowscythe"
+ },
+ {
+  "ItemName": "ElderwoodScythe",
+  "Rarity": "Ancient",
+  "ItemType": "Knife",
+  "ID": 178,
+  "Type": "Weapon",
+  "Name": "Elderwood Scythe"
+ },
+ {
+  "ItemName": "Icebreaker",
+  "Rarity": "Ancient",
+  "ItemType": "Knife",
+  "ID": 179,
+  "Type": "Weapon",
+  "Name": "Icebreaker"
+ },
+ {
+  "ItemName": "SwirlyAxe",
+  "Rarity": "Ancient",
+  "ItemType": "Knife",
+  "ID": 180,
+  "Type": "Weapon",
+  "Name": "Swirly Axe"
+ },
+ {
+  "ItemName": "TravelerAxe",
+  "Rarity": "Ancient",
+  "ItemType": "Knife",
+  "ID": 181,
+  "Type": "Weapon",
+  "Name": "Traveler's Axe"
+ },
+ {
+  "ItemName": "Icepiercer",
+  "Rarity": "Ancient",
+  "ItemType": "Gun",
+  "ID": 182,
+  "Type": "Weapon",
+  "Name": "Icepiercer"
+ },
+ {
+  "ItemName": "Harvester",
+  "Rarity": "Ancient",
+  "ItemType": "Gun",
+  "ID": 183,
+  "Type": "Weapon",
+  "Name": "Harvester"
+ },
+ {
+  "ItemName": "Gingerscope",
+  "Rarity": "Ancient",
+  "ItemType": "Gun",
+  "ID": 184,
+  "Type": "Weapon",
+  "Name": "Gingerscope"
+ },
+ {
+  "ItemName": "Gun1",
+  "Rarity": "Classic",
+  "ItemType": "Gun",
+  "ID": 164,
+  "Type": "Weapon",
+  "Name": "Cowboy"
+ },
+ {
+  "ItemName": "Knife1",
+  "Rarity": "Classic",
+  "ItemType": "Knife",
+  "ID": 165,
+  "Type": "Weapon",
+  "Name": "Splitter"
+ },
+ {
+  "ItemName": "GoldenGun",
+  "Rarity": "Classic",
+  "ItemType": "Gun",
+  "ID": 166,
+  "Type": "Weapon",
+  "Name": "Golden"
+ },
+ {
+  "ItemName": "GhostKnife",
+  "Rarity": "Classic",
+  "ItemType": "Knife",
+  "ID": 167,
+  "Type": "Weapon",
+  "Name": "Ghost"
+ },
+ {
+  "ItemName": "ShadowKnife",
+  "Rarity": "Classic",
+  "ItemType": "Knife",
+  "ID": 168,
+  "Type": "Weapon",
+  "Name": "Shadow"
+ },
+ {
+  "ItemName": "Disint",
+  "Rarity": "Classic",
+  "ItemType": "Gun",
+  "ID": 169,
+  "Type": "Weapon",
+  "Name": "Laser"
+ },
+ {
+  "ItemName": "TimeKnife",
+  "Rarity": "Classic",
+  "ItemType": "Knife",
+  "ID": 170,
+  "Type": "Weapon",
+  "Name": "Prince"
+ },
+ {
+  "ItemName": "Phaser",
+  "Rarity": "Classic",
+  "ItemType": "Gun",
+  "ID": 171,
+  "Type": "Weapon",
+  "Name": "Phaser"
+ },
+ {
+  "ItemName": "AmericaGun",
+  "Rarity": "Classic",
+  "ItemType": "Gun",
+  "ID": 172,
+  "Type": "Weapon",
+  "Name": "America"
+ },
+ {
+  "ItemName": "BloodKnife",
+  "Rarity": "Classic",
+  "ItemType": "Knife",
+  "ID": 173,
+  "Type": "Weapon",
+  "Name": "Blood"
+ },
+ {
+  "ItemName": "Eggblade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 185,
+  "Type": "Weapon",
+  "Name": "Eggblade"
+ },
+ {
+  "ItemName": "Cookieblade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 186,
+  "Type": "Weapon",
+  "Name": "Cookieblade"
+ },
+ {
+  "ItemName": "YellowSeer",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 187,
+  "Type": "Weapon",
+  "Name": "Yellow Seer"
+ },
+ {
+  "ItemName": "Peppermint",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 188,
+  "Type": "Weapon",
+  "Name": "Peppermint"
+ },
+ {
+  "ItemName": "OrangeSeer",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 189,
+  "Type": "Weapon",
+  "Name": "Orange Seer"
+ },
+ {
+  "ItemName": "TheSeer",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 190,
+  "Type": "Weapon",
+  "Name": "Seer"
+ },
+ {
+  "ItemName": "PurpleSeer",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 191,
+  "Type": "Weapon",
+  "Name": "Purple Seer"
+ },
+ {
+  "ItemName": "Nebula",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 192,
+  "Type": "Weapon",
+  "Name": "Nebula"
+ },
+ {
+  "ItemName": "RedSeer",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 193,
+  "Type": "Weapon",
+  "Name": "Red Seer"
+ },
+ {
+  "ItemName": "BlueSeer",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 194,
+  "Type": "Weapon",
+  "Name": "Blue Seer"
+ },
+ {
+  "ItemName": "Handsaw",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 195,
+  "Type": "Weapon",
+  "Name": "Handsaw"
+ },
+ {
+  "ItemName": "Eternal2",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 196,
+  "Type": "Weapon",
+  "Name": "Eternal II"
+ },
+ {
+  "ItemName": "Saw",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 197,
+  "Type": "Weapon",
+  "Name": "Saw"
+ },
+ {
+  "ItemName": "Boneblade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 198,
+  "Type": "Weapon",
+  "Name": "Boneblade"
+ },
+ {
+  "ItemName": "Ghostblade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 199,
+  "Type": "Weapon",
+  "Name": "Ghostblade"
+ },
+ {
+  "ItemName": "Frostbite",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 200,
+  "Type": "Weapon",
+  "Name": "Frostbite"
+ },
+ {
+  "ItemName": "Snowflake",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 201,
+  "Type": "Weapon",
+  "Name": "Snowflake"
+ },
+ {
+  "ItemName": "HallowsBlade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 202,
+  "Type": "Weapon",
+  "Name": "Hallow's Blade"
+ },
+ {
+  "ItemName": "Eternal4",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 203,
+  "Type": "Weapon",
+  "Name": "Eternal IV"
+ },
+ {
+  "ItemName": "Eternal2",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 204,
+  "Type": "Weapon",
+  "Name": "Eternal II"
+ },
+ {
+  "ItemName": "Prismatic",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 205,
+  "Type": "Weapon",
+  "Name": "Prismatic"
+ },
+ {
+  "ItemName": "Eternal3",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 206,
+  "Type": "Weapon",
+  "Name": "Eternal III"
+ },
+ {
+  "ItemName": "WintersEdge",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 207,
+  "Type": "Weapon",
+  "Name": "Winter's Edge"
+ },
+ {
+  "ItemName": "Flames",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 208,
+  "Type": "Weapon",
+  "Name": "Flames"
+ },
+ {
+  "ItemName": "Bioblade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 209,
+  "Type": "Weapon",
+  "Name": "Bioblade"
+ },
+ {
+  "ItemName": "Xmas",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 210,
+  "Type": "Weapon",
+  "Name": "Xmas"
+ },
+ {
+  "ItemName": "Jinglegun",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 211,
+  "Type": "Weapon",
+  "Name": "Jinglegun"
+ },
+ {
+  "ItemName": "IceShard",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 212,
+  "Type": "Weapon",
+  "Name": "Ice Shard"
+ },
+ {
+  "ItemName": "Hallow",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 213,
+  "Type": "Weapon",
+  "Name": "Hallow's Edge"
+ },
+ {
+  "ItemName": "BattleAxe",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 214,
+  "Type": "Weapon",
+  "Name": "BattleAxe"
+ },
+ {
+  "ItemName": "IceDragon",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 215,
+  "Type": "Weapon",
+  "Name": "Ice Dragon"
+ },
+ {
+  "ItemName": "VampiresEdge",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 216,
+  "Type": "Weapon",
+  "Name": "Vampire's Edge"
+ },
+ {
+  "ItemName": "Lugercane",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 217,
+  "Type": "Weapon",
+  "Name": "Lugercane"
+ },
+ {
+  "ItemName": "EternalCane",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 218,
+  "Type": "Weapon",
+  "Name": "EternalCane"
+ },
+ {
+  "ItemName": "BattleAxe2",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 219,
+  "Type": "Weapon",
+  "Name": "BattleAxe II"
+ },
+ {
+  "ItemName": "Frostsaber",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 220,
+  "Type": "Weapon",
+  "Name": "Frostsaber"
+ },
+ {
+  "ItemName": "Spider",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 221,
+  "Type": "Weapon",
+  "Name": "Spider"
+ },
+ {
+  "ItemName": "Deathshard",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 222,
+  "Type": "Weapon",
+  "Name": "Deathshard"
+ },
+ {
+  "ItemName": "Pumpking",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 223,
+  "Type": "Weapon",
+  "Name": "Pumpking"
+ },
+ {
+  "ItemName": "Pixel",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 224,
+  "Type": "Weapon",
+  "Name": "Pixel"
+ },
+ {
+  "ItemName": "Chill",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 225,
+  "Type": "Weapon",
+  "Name": "Chill"
+ },
+ {
+  "ItemName": "Tides",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 226,
+  "Type": "Weapon",
+  "Name": "Tides"
+ },
+ {
+  "ItemName": "Gemstone",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 227,
+  "Type": "Weapon",
+  "Name": "Gemstone"
+ },
+ {
+  "ItemName": "Gingerblade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 228,
+  "Type": "Weapon",
+  "Name": "Gingerblade"
+ },
+ {
+  "ItemName": "Fang",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 229,
+  "Type": "Weapon",
+  "Name": "Fang"
+ },
+ {
+  "ItemName": "Slasher",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 230,
+  "Type": "Weapon",
+  "Name": "Slasher"
+ },
+ {
+  "ItemName": "Minty",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 231,
+  "Type": "Weapon",
+  "Name": "Minty"
+ },
+ {
+  "ItemName": "Heat",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 232,
+  "Type": "Weapon",
+  "Name": "Heat"
+ },
+ {
+  "ItemName": "GingerLuger",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 233,
+  "Type": "Weapon",
+  "Name": "Ginger Luger"
+ },
+ {
+  "ItemName": "Clockwork",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 234,
+  "Type": "Weapon",
+  "Name": "Clockwork"
+ },
+ {
+  "ItemName": "GreenLuger",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 235,
+  "Type": "Weapon",
+  "Name": "Green Luger"
+ },
+ {
+  "ItemName": "RedLuger",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 236,
+  "Type": "Weapon",
+  "Name": "Red Luger"
+ },
+ {
+  "ItemName": "Nightblade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 237,
+  "Type": "Weapon",
+  "Name": "Nightblade"
+ },
+ {
+  "ItemName": "Plasmablade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 238,
+  "Type": "Weapon",
+  "Name": "Plasmablade"
+ },
+ {
+  "ItemName": "Plasmabeam",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 239,
+  "Type": "Weapon",
+  "Name": "Plasmabeam"
+ },
+ {
+  "ItemName": "Iceflake",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 240,
+  "Type": "Weapon",
+  "Name": "Iceflake"
+ },
+ {
+  "ItemName": "Icebeam",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 241,
+  "Type": "Weapon",
+  "Name": "Icebeam"
+ },
+ {
+  "ItemName": "Virtual",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 242,
+  "Type": "Weapon",
+  "Name": "Virtual"
+ },
+ {
+  "ItemName": "Shark",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 243,
+  "Type": "Weapon",
+  "Name": "Shark"
+ },
+ {
+  "ItemName": "AmericaSword",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 244,
+  "Type": "Weapon",
+  "Name": "Old Glory"
+ },
+ {
+  "ItemName": "Laser",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 245,
+  "Type": "Weapon",
+  "Name": "Laser"
+ },
+ {
+  "ItemName": "Blaster",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 246,
+  "Type": "Weapon",
+  "Name": "Blaster"
+ },
+ {
+  "ItemName": "Amerilaser",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 247,
+  "Type": "Weapon",
+  "Name": "Amerilaser"
+ },
+ {
+  "ItemName": "Hallowgun",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 248,
+  "Type": "Weapon",
+  "Name": "Hallowgun"
+ },
+ {
+  "ItemName": "Icebreaker",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 249,
+  "Type": "Weapon",
+  "Name": "Icebreaker"
+ },
+ {
+  "ItemName": "Luger",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 250,
+  "Type": "Weapon",
+  "Name": "Luger"
+ },
+ {
+  "ItemName": "Lightbringer",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 251,
+  "Type": "Weapon",
+  "Name": "Lightbringer"
+ },
+ {
+  "ItemName": "ElderwoodGun",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 252,
+  "Type": "Weapon",
+  "Name": "Elderwood Revolver"
+ },
+ {
+  "ItemName": "Heartblade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 253,
+  "Type": "Weapon",
+  "Name": "Heartblade"
+ },
+ {
+  "ItemName": "Darkbringer",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 254,
+  "Type": "Weapon",
+  "Name": "Darkbringer"
+ },
+ {
+  "ItemName": "Waves_K",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 255,
+  "Type": "Weapon",
+  "Name": "Waves"
+ },
+ {
+  "ItemName": "Ocean_G",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 256,
+  "Type": "Weapon",
+  "Name": "Ocean"
+ },
+ {
+  "ItemName": "Rainbow_K",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 257,
+  "Type": "Weapon",
+  "Name": "Rainbow"
+ },
+ {
+  "ItemName": "Sugar",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 258,
+  "Type": "Weapon",
+  "Name": "Sugar"
+ },
+ {
+  "ItemName": "Rainbow_G",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 259,
+  "Type": "Weapon",
+  "Name": "Rainbow"
+ },
+ {
+  "ItemName": "Candy",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 260,
+  "Type": "Weapon",
+  "Name": "Candy"
+ },
+ {
+  "ItemName": "Darksword",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 261,
+  "Type": "Weapon",
+  "Name": "Darksword"
+ },
+ {
+  "ItemName": "Darkshot",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 262,
+  "Type": "Weapon",
+  "Name": "Darkshot"
+ },
+ {
+  "ItemName": "Spectre2022",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 263,
+  "Type": "Weapon",
+  "Name": "Spectre"
+ },
+ {
+  "ItemName": "Phantom2022",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 264,
+  "Type": "Weapon",
+  "Name": "Phantom"
+ },
+ {
+  "ItemName": "Turkey2023",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 265,
+  "Type": "Weapon",
+  "Name": "Turkey"
+ },
+ {
+  "ItemName": "Gingermint_K",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 266,
+  "Type": "Weapon",
+  "Name": "Cookiecane"
+ },
+ {
+  "ItemName": "Sakura_K",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 267,
+  "Type": "Weapon",
+  "Name": "Sakura"
+ },
+ {
+  "ItemName": "SwirlyBlade",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 268,
+  "Type": "Weapon",
+  "Name": "Swirly Blade"
+ },
+ {
+  "ItemName": "Blossom_G",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 269,
+  "Type": "Weapon",
+  "Name": "Blossom"
+ },
+ {
+  "ItemName": "Gingermint_G",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 270,
+  "Type": "Weapon",
+  "Name": "Gingermint"
+ },
+ {
+  "ItemName": "Candleflame",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 271,
+  "Type": "Weapon",
+  "Name": "Candleflame"
+ },
+ {
+  "ItemName": "Survivors_K_2022",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 272,
+  "Type": "Weapon",
+  "Name": "Makeshift"
+ },
+ {
+  "ItemName": "ElderwoodKnife",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 273,
+  "Type": "Weapon",
+  "Name": "Elderwood Blade"
+ },
+ {
+  "ItemName": "SwirlyGun",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 274,
+  "Type": "Weapon",
+  "Name": "Swirly Gun"
+ },
+ {
+  "ItemName": "TravelerGun",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 275,
+  "Type": "Weapon",
+  "Name": "Traveler's Gun"
+ },
+ {
+  "ItemName": "ZombieBat",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 276,
+  "Type": "Weapon",
+  "Name": "Bat"
+ },
+ {
+  "ItemName": "TreeGun2023",
+  "Rarity": "Godly",
+  "ItemType": "Gun",
+  "ID": 277,
+  "Type": "Weapon",
+  "Name": "Evergun"
+ },
+ {
+  "ItemName": "TreeKnife2023",
+  "Rarity": "Godly",
+  "ItemType": "Knife",
+  "ID": 278,
+  "Type": "Weapon",
+  "Name": "Evergreen"
+ },
+ {
+  "ItemName": "Ghosty",
+  "Rarity": "Godly",
+  "ID": 301,
+  "Type": "Pet",
+  "Name": "Ghosty"
+ },
+ {
+  "ItemName": "Traveller",
+  "Rarity": "Godly",
+  "ID": 302,
+  "Type": "Pet",
+  "Name": "Traveller"
+ },
+ {
+  "ItemName": "Skelly",
+  "Rarity": "Godly",
+  "ID": 303,
+  "Type": "Pet",
+  "Name": "Skelly"
+ },
+ {
+  "ItemName": "IcePhoenix",
+  "Rarity": "Godly",
+  "ID": 304,
+  "Type": "Pet",
+  "Name": "Ice Phoenix"
+ },
+ {
+  "ItemName": "GreenPumpkin2020",
+  "Rarity": "Rare",
+  "ID": 305,
+  "Type": "Pet",
+  "Name": "Pumpkin"
+ },
+ {
+  "ItemName": "PumpkinPet",
+  "Rarity": "Common",
+  "ID": 306,
+  "Type": "Pet",
+  "Name": "Pumpkin"
+ },
+ {
+  "ItemName": "PigFire",
+  "Rarity": "Godly",
+  "ID": 307,
+  "Type": "Pet",
+  "Name": "Fire Pig"
+ },
+ {
+  "ItemName": "FoxFire",
+  "Rarity": "Godly",
+  "ID": 308,
+  "Type": "Pet",
+  "Name": "Fire Fox"
+ },
+ {
+  "ItemName": "DogFire",
+  "Rarity": "Godly",
+  "ID": 309,
+  "Type": "Pet",
+  "Name": "Fire Dog"
+ },
+ {
+  "ItemName": "BunnyFire",
+  "Rarity": "Godly",
+  "ID": 310,
+  "Type": "Pet",
+  "Name": "Fire Bunny"
+ },
+ {
+  "ItemName": "BearFire",
+  "Rarity": "Godly",
+  "ID": 311,
+  "Type": "Pet",
+  "Name": "Fire Bear"
+ },
+ {
+  "ItemName": "Badger",
+  "Rarity": "Common",
+  "ID": 312,
+  "Type": "Pet",
+  "Name": "Badger"
+ },
+ {
+  "ItemName": "CatFire",
+  "Rarity": "Godly",
+  "ID": 313,
+  "Type": "Pet",
+  "Name": "Fire Cat"
+ },
+ {
+  "ItemName": "BatFire",
+  "Rarity": "Godly",
+  "ID": 314,
+  "Type": "Pet",
+  "Name": "Fire Bat"
+ },
+ {
+  "ItemName": "AmericanEagle",
+  "Rarity": "Godly",
+  "ID": 315,
+  "Type": "Pet",
+  "Name": "Sammy"
+ },
+ {
+  "ItemName": "Electro",
+  "Rarity": "Godly",
+  "ID": 316,
+  "Type": "Pet",
+  "Name": "Electro"
+ },
+ {
+  "ItemName": "Steambird",
+  "Rarity": "Godly",
+  "ID": 317,
+  "Type": "Pet",
+  "Name": "Steambird"
+ },
+ {
+  "ItemName": "Phoenix",
+  "Rarity": "Godly",
+  "ID": 318,
+  "Type": "Pet",
+  "Name": "Phoenix"
+ },
+ {
+  "ItemName": "Frostbird",
+  "Rarity": "Godly",
+  "ID": 319,
+  "Type": "Pet",
+  "Name": "Frostbird"
+ },
+ {
+  "ItemName": "BluePumpkin19",
+  "Rarity": "Uncommon",
+  "ID": 320,
+  "Type": "Pet",
+  "Name": "Pumpkin"
+ },
+ {
+  "ItemName": "RedPumpkin2020",
+  "Rarity": "Legendary",
+  "ID": 321,
+  "Type": "Pet",
+  "Name": "Pumpkin"
+ },
+ {
+  "ItemName": "Deathspeaker",
+  "Rarity": "Godly",
+  "ID": 322,
+  "Type": "Pet",
+  "Name": "Deathspeaker"
+ },
+ {
+  "ItemName": "Elfy",
+  "Rarity": "Common",
+  "ID": 323,
+  "Type": "Pet",
+  "Name": "Elf"
+ },
+ {
+  "ItemName": "Piggy",
+  "Rarity": "Common",
+  "ID": 324,
+  "Type": "Pet",
+  "Name": "Piggy"
+ },
+ {
+  "ItemName": "UFO",
+  "Rarity": "Common",
+  "ID": 325,
+  "Type": "Pet",
+  "Name": "UFO"
+ },
+ {
+  "ItemName": "Mechbug",
+  "Rarity": "Rare",
+  "ID": 326,
+  "Type": "Pet",
+  "Name": "Mechbug"
+ },
+ {
+  "ItemName": "Elf2019",
+  "Rarity": "Uncommon",
+  "ID": 327,
+  "Type": "Pet",
+  "Name": "Elf"
+ },
+ {
+  "ItemName": "HeartBalloon",
+  "Rarity": "Common",
+  "ID": 328,
+  "Type": "Pet",
+  "Name": "<3"
+ },
+ {
+  "ItemName": "GreenP",
+  "Rarity": "Common",
+  "ID": 329,
+  "Type": "Pet",
+  "Name": "Pumpkin"
+ },
+ {
+  "ItemName": "Tankie",
+  "Rarity": "Rare",
+  "ID": 330,
+  "Type": "Pet",
+  "Name": "Tankie"
+ },
+ {
+  "ItemName": "Pengy",
+  "Rarity": "Common",
+  "ID": 331,
+  "Type": "Pet",
+  "Name": "Pengy"
+ },
+ {
+  "ItemName": "Chilly",
+  "Rarity": "Uncommon",
+  "ID": 332,
+  "Type": "Pet",
+  "Name": "Chilly"
+ },
+ {
+  "ItemName": "Seahorsey",
+  "Rarity": "Uncommon",
+  "ID": 333,
+  "Type": "Pet",
+  "Name": "Seahorsey"
+ },
+ {
+  "ItemName": "Dogey",
+  "Rarity": "Uncommon",
+  "ID": 334,
+  "Type": "Pet",
+  "Name": "Dogey"
+ },
+ {
+  "ItemName": "BlackCat",
+  "Rarity": "Common",
+  "ID": 335,
+  "Type": "Pet",
+  "Name": "Black Cat"
+ },
+ {
+  "ItemName": "Reindeer",
+  "Rarity": "Common",
+  "ID": 336,
+  "Type": "Pet",
+  "Name": "Reindeer"
+ },
+ {
+  "ItemName": "Fairy",
+  "Rarity": "Uncommon",
+  "ID": 337,
+  "Type": "Pet",
+  "Name": "Fairy"
+ },
+ {
+  "ItemName": "GreenPumpkin19",
+  "Rarity": "Rare",
+  "ID": 338,
+  "Type": "Pet",
+  "Name": "Pumpkin"
+ },
+ {
+  "ItemName": "Rudolph",
+  "Rarity": "Legendary",
+  "ID": 339,
+  "Type": "Pet",
+  "Name": "Rudolph"
+ },
+ {
+  "ItemName": "RedP",
+  "Rarity": "Common",
+  "ID": 340,
+  "Type": "Pet",
+  "Name": "Pumpkin"
+ },
+ {
+  "ItemName": "Nobledragon",
+  "Rarity": "Legendary",
+  "ID": 341,
+  "Type": "Pet",
+  "Name": "Nobledragon"
+ },
+ {
+  "ItemName": "RedPumpkin19",
+  "Rarity": "Rare",
+  "ID": 342,
+  "Type": "Pet",
+  "Name": "Pumpkin"
+ },
+ {
+  "ItemName": "ZombieDog",
+  "Rarity": "Common",
+  "ID": 343,
+  "Type": "Pet",
+  "Name": "Zombie Dog"
+ },
+ {
+  "ItemName": "VampireBat",
+  "Rarity": "Legendary",
+  "ID": 344,
+  "Type": "Pet",
+  "Name": "Vampire Bat"
+ },
+ {
+  "ItemName": "",
+  "Rarity": "",
+  "ID": 345,
+  "Type": "",
+  "Name": ""
+ },
+ {
+  "ItemName": "BlueP",
+  "Rarity": "Common",
+  "ID": 346,
+  "Type": "Pet",
+  "Name": "Pumpkin"
+ },
+ {
+  "ItemName": "Overseer Eye",
+  "Rarity": "Legendary",
+  "ID": 347,
+  "Type": "Pet",
+  "Name": "Overseer Eye"
+ },
+ {
+  "ItemName": "Eye",
+  "Rarity": "Rare",
+  "ID": 348,
+  "Type": "Pet",
+  "Name": "Eyeball"
+ },
+ {
+  "ItemName": "PurpleP",
+  "Rarity": "Common",
+  "ID": 349,
+  "Type": "Pet",
+  "Name": "Pumpkin"
+ },
+ {
+  "ItemName": "Jetstream",
+  "Rarity": "Rare",
+  "ID": 350,
+  "Type": "Pet",
+  "Name": "Jetstream"
+ },
+ {
+  "ItemName": "BearChroma",
+  "Rarity": "Godly",
+  "ID": 351,
+  "Type": "Pet",
+  "Chroma": "True",
+  "Name": "Fire Bear"
+ },
+ {
+  "ItemName": "PigChroma",
+  "Rarity": "Godly",
+  "ID": 352,
+  "Type": "Pet",
+  "Chroma": "True",
+  "Name": "Fire Pig"
+ },
+ {
+  "ItemName": "DogChroma",
+  "Rarity": "Godly",
+  "ID": 353,
+  "Type": "Pet",
+  "Chroma": "True",
+  "Name": "Fire Dog"
+ },
+ {
+  "ItemName": "BatChroma",
+  "Rarity": "Godly",
+  "ID": 354,
+  "Type": "Pet",
+  "Chroma": "True",
+  "Name": "Fire Bat"
+ },
+ {
+  "ItemName": "FoxChroma",
+  "Rarity": "Godly",
+  "ID": 355,
+  "Type": "Pet",
+  "Chroma": "True",
+  "Name": "Fire Fox"
+ },
+ {
+  "ItemName": "BunnyChroma",
+  "Rarity": "Godly",
+  "ID": 356,
+  "Type": "Pet",
+  "Chroma": "True",
+  "Name": "Fire Bunny"
+ },
+ {
+  "ItemName": "CatChroma",
+  "Rarity": "Godly",
+  "ID": 357,
+  "Type": "Pet",
+  "Chroma": "True",
+  "Name": "Fire Cat"
+ },
+ {
+  "ItemName": "CandyCorn",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 1,
+  "Type": "Weapon",
+  "Name": "CandyCorn"
+ },
+ {
+  "ItemName": "Combat2",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 2,
+  "Type": "Weapon",
+  "Name": "Combat II"
+ },
+ {
+  "ItemName": "Sub",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 3,
+  "Type": "Weapon",
+  "Name": "Sub"
+ },
+ {
+  "ItemName": "SketchYT",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 4,
+  "Type": "Weapon",
+  "Name": "Sketchy"
+ },
+ {
+  "ItemName": "Prism",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 5,
+  "Type": "Weapon",
+  "Name": "Prism"
+ },
+ {
+  "ItemName": "Denis",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 6,
+  "Type": "Weapon",
+  "Name": "Denis"
+ },
+ {
+  "ItemName": "Corl",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 7,
+  "Type": "Weapon",
+  "Name": "Corl"
+ },
+ {
+  "ItemName": "Alex",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 8,
+  "Type": "Weapon",
+  "Name": "Alex"
+ },
+ {
+  "ItemName": "RbxScary_K_2023",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 9,
+  "Type": "Weapon",
+  "Name": "Ghoulish"
+ },
+ {
+  "ItemName": "Witch",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 10,
+  "Type": "Weapon",
+  "Name": "Witch"
+ },
+ {
+  "ItemName": "Brains",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 11,
+  "Type": "Weapon",
+  "Name": "Brains"
+ },
+ {
+  "ItemName": "Bones",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 12,
+  "Type": "Weapon",
+  "Name": "Bones"
+ },
+ {
+  "ItemName": "Ecto",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 13,
+  "Type": "Weapon",
+  "Name": "Ecto"
+ },
+ {
+  "ItemName": "Sparkle2",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 14,
+  "Type": "Weapon",
+  "Name": "Sparkle2"
+ },
+ {
+  "ItemName": "Sparkle1",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 15,
+  "Type": "Weapon",
+  "Name": "Sparkle1"
+ },
+ {
+  "ItemName": "Wrapped_G_2018",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 16,
+  "Type": "Weapon",
+  "Name": "Wrapped"
+ },
+ {
+  "ItemName": "Sparkle3",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 17,
+  "Type": "Weapon",
+  "Name": "Sparkle3"
+ },
+ {
+  "ItemName": "Snowman_G_2018",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 18,
+  "Type": "Weapon",
+  "Name": "Snowman"
+ },
+ {
+  "ItemName": "Pine_K_2019",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 19,
+  "Type": "Weapon",
+  "Name": "Pine"
+ },
+ {
+  "ItemName": "Ghosty",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 20,
+  "Type": "Weapon",
+  "Name": "Ghosty"
+ },
+ {
+  "ItemName": "SlimeG",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 21,
+  "Type": "Weapon",
+  "Name": "Slime"
+ },
+ {
+  "ItemName": "HauntedG",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 22,
+  "Type": "Weapon",
+  "Name": "Haunted"
+ },
+ {
+  "ItemName": "Zombie",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 23,
+  "Type": "Weapon",
+  "Name": "Zombie"
+ },
+ {
+  "ItemName": "GraveG",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 24,
+  "Type": "Weapon",
+  "Name": "Grave"
+ },
+ {
+  "ItemName": "BatsG",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 25,
+  "Type": "Weapon",
+  "Name": "Bats"
+ },
+ {
+  "ItemName": "Indy",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 26,
+  "Type": "Weapon",
+  "Name": "Indy"
+ },
+ {
+  "ItemName": "Sparkle4",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 27,
+  "Type": "Weapon",
+  "Name": "Sparkle4"
+ },
+ {
+  "ItemName": "SlimeK",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 28,
+  "Type": "Weapon",
+  "Name": "Slime"
+ },
+ {
+  "ItemName": "Grind",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 29,
+  "Type": "Weapon",
+  "Name": "Grind"
+ },
+ {
+  "ItemName": "Phantom",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 30,
+  "Type": "Weapon",
+  "Name": "Phantom"
+ },
+ {
+  "ItemName": "HauntedK",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 31,
+  "Type": "Weapon",
+  "Name": "Haunted"
+ },
+ {
+  "ItemName": "Asteroid",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 32,
+  "Type": "Weapon",
+  "Name": "Asteroid"
+ },
+ {
+  "ItemName": "BatsK",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 33,
+  "Type": "Weapon",
+  "Name": "Bats"
+ },
+ {
+  "ItemName": "Euro",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 34,
+  "Type": "Weapon",
+  "Name": "Euro"
+ },
+ {
+  "ItemName": "Gifts_K_2019",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 35,
+  "Type": "Weapon",
+  "Name": "Gifts"
+ },
+ {
+  "ItemName": "Sidewinder",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 36,
+  "Type": "Weapon",
+  "Name": "Sidewinder"
+ },
+ {
+  "ItemName": "Sparkle5",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 37,
+  "Type": "Weapon",
+  "Name": "Sparkle5"
+ },
+ {
+  "ItemName": "Tailslide",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 38,
+  "Type": "Weapon",
+  "Name": "Tailslide"
+ },
+ {
+  "ItemName": "GraveG",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 39,
+  "Type": "Weapon",
+  "Name": "Grave"
+ },
+ {
+  "ItemName": "Ollie",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 40,
+  "Type": "Weapon",
+  "Name": "Ollie"
+ },
+ {
+  "ItemName": "Sparkle6",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 41,
+  "Type": "Weapon",
+  "Name": "Sparkle6"
+ },
+ {
+  "ItemName": "Sparkle7",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 42,
+  "Type": "Weapon",
+  "Name": "Sparkle7"
+ },
+ {
+  "ItemName": "Sparkle8",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 43,
+  "Type": "Weapon",
+  "Name": "Sparkle8"
+ },
+ {
+  "ItemName": "Sparkle9",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 44,
+  "Type": "Weapon",
+  "Name": "Sparkle9"
+ },
+ {
+  "ItemName": "Sparkle10",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 45,
+  "Type": "Weapon",
+  "Name": "Sparkle10"
+ },
+ {
+  "ItemName": "Ornament2",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 46,
+  "Type": "Weapon",
+  "Name": "Ornament2"
+ },
+ {
+  "ItemName": "Ornament2Gun",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 47,
+  "Type": "Weapon",
+  "Name": "Ornament2"
+ },
+ {
+  "ItemName": "Ornament1",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 48,
+  "Type": "Weapon",
+  "Name": "Ornament"
+ },
+ {
+  "ItemName": "Ornament1Gun",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 49,
+  "Type": "Weapon",
+  "Name": "Ornament1"
+ },
+ {
+  "ItemName": "Eggs",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 50,
+  "Type": "Weapon",
+  "Name": "Egg"
+ },
+ {
+  "ItemName": "Carrot",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 51,
+  "Type": "Weapon",
+  "Name": "Carrot"
+ },
+ {
+  "ItemName": "Infected",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 52,
+  "Type": "Weapon",
+  "Name": "Infected"
+ },
+ {
+  "ItemName": "Goo",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 53,
+  "Type": "Weapon",
+  "Name": "Goo"
+ },
+ {
+  "ItemName": 2015,
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 54,
+  "Type": "Weapon",
+  "Name": 2015
+ },
+ {
+  "ItemName": "Valentine",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 55,
+  "Type": "Weapon",
+  "Name": "Valentine"
+ },
+ {
+  "ItemName": "Tulip",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 56,
+  "Type": "Weapon",
+  "Name": "Tulip"
+ },
+ {
+  "ItemName": "Sweetheart",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 57,
+  "Type": "Weapon",
+  "Name": "Sweetheart"
+ },
+ {
+  "ItemName": "Passion",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 58,
+  "Type": "Weapon",
+  "Name": "Passion"
+ },
+ {
+  "ItemName": "Choco",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 59,
+  "Type": "Weapon",
+  "Name": "Choco"
+ },
+ {
+  "ItemName": "Bunny",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 60,
+  "Type": "Weapon",
+  "Name": "Bunny"
+ },
+ {
+  "ItemName": "Blossom",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 61,
+  "Type": "Weapon",
+  "Name": "Blossom"
+ },
+ {
+  "ItemName": "TNL",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 62,
+  "Type": "Weapon",
+  "Name": "TNL"
+ },
+ {
+  "ItemName": "Roses",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 63,
+  "Type": "Weapon",
+  "Name": "Roses"
+ },
+ {
+  "ItemName": "Hearts",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 64,
+  "Type": "Weapon",
+  "Name": "Hearts"
+ },
+ {
+  "ItemName": "ElfGun",
+  "Rarity": "Common",
+  "ItemType": "Gun",
+  "ID": 65,
+  "Type": "Weapon",
+  "Name": "Elf"
+ },
+ {
+  "ItemName": "Patrick",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 66,
+  "Type": "Weapon",
+  "Name": "Patrick"
+ },
+ {
+  "ItemName": "Reptile",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 67,
+  "Type": "Weapon",
+  "Name": "Reptile"
+ },
+ {
+  "ItemName": "Neon",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 68,
+  "Type": "Weapon",
+  "Name": "Neon"
+ },
+ {
+  "ItemName": "Skool",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 69,
+  "Type": "Weapon",
+  "Name": "Skool"
+ },
+ {
+  "ItemName": "Elf",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 70,
+  "Type": "Weapon",
+  "Name": "Elf"
+ },
+ {
+  "ItemName": "Batwing",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 71,
+  "Type": "Weapon",
+  "Name": "Glitch1"
+ },
+ {
+  "ItemName": "RandLuger",
+  "Rarity": "Common",
+  "ItemType": "Knife",
+  "ID": 72,
+  "Type": "Weapon",
+  "Name": "Glitch2"
+ },
+ {
+  "ItemName": "Wrapped",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 73,
+  "Type": "Weapon",
+  "Name": "Wrapped"
+ },
+ {
+  "ItemName": "WrappedGun",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 74,
+  "Type": "Weapon",
+  "Name": "Wrapped"
+ },
+ {
+  "ItemName": "Snowman",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 75,
+  "Type": "Weapon",
+  "Name": "Snowman"
+ },
+ {
+  "ItemName": "SnowmanGun",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 76,
+  "Type": "Weapon",
+  "Name": "Snowman"
+ },
+ {
+  "ItemName": "Holly_G_2018",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 77,
+  "Type": "Weapon",
+  "Name": "Holly"
+ },
+ {
+  "ItemName": "Webs",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 78,
+  "Type": "Weapon",
+  "Name": "Webs"
+ },
+ {
+  "ItemName": "MummyK",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 79,
+  "Type": "Weapon",
+  "Name": "Mummy"
+ },
+ {
+  "ItemName": "Lights_K_2019",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 80,
+  "Type": "Weapon",
+  "Name": "Lights"
+ },
+ {
+  "ItemName": "Gingerbread_G_2019",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 81,
+  "Type": "Weapon",
+  "Name": "Gingerbread"
+ },
+ {
+  "ItemName": "Vampire",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 82,
+  "Type": "Weapon",
+  "Name": "Vampire"
+ },
+ {
+  "ItemName": "Snowflake_K_2018",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 83,
+  "Type": "Weapon",
+  "Name": "Snowflake"
+ },
+ {
+  "ItemName": "MummyK2018",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 84,
+  "Type": "Weapon",
+  "Name": "Mummy"
+ },
+ {
+  "ItemName": "Frozen_K_2019",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 85,
+  "Type": "Weapon",
+  "Name": "Frozen"
+ },
+ {
+  "ItemName": "PumpkinPie_K_2023",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 86,
+  "Type": "Weapon",
+  "Name": "Pumpkin Pie"
+ },
+ {
+  "ItemName": "Wolf",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 87,
+  "Type": "Weapon",
+  "Name": "Wolf"
+ },
+ {
+  "ItemName": "Potion",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 88,
+  "Type": "Weapon",
+  "Name": "Potion"
+ },
+ {
+  "ItemName": "Sweater_K_2018",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 89,
+  "Type": "Weapon",
+  "Name": "Sweater"
+ },
+ {
+  "ItemName": "ZombieK2018",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 90,
+  "Type": "Weapon",
+  "Name": "Zombie"
+ },
+ {
+  "ItemName": "PotionG2018",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 91,
+  "Type": "Weapon",
+  "Name": "Potion"
+ },
+ {
+  "ItemName": "ZombifiedK",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 92,
+  "Type": "Weapon",
+  "Name": "Zombified"
+ },
+ {
+  "ItemName": "Moons",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 93,
+  "Type": "Weapon",
+  "Name": "Moons"
+ },
+ {
+  "ItemName": "Brains2019",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 94,
+  "Type": "Weapon",
+  "Name": "Brains"
+ },
+ {
+  "ItemName": "Branches",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 95,
+  "Type": "Weapon",
+  "Name": "Branches"
+ },
+ {
+  "ItemName": "ZombifiedG",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 96,
+  "Type": "Weapon",
+  "Name": "Zombified"
+ },
+ {
+  "ItemName": "Gingerbread_K_2019",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 97,
+  "Type": "Weapon",
+  "Name": "Gingerbread"
+ },
+ {
+  "ItemName": "MummyG2018",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 98,
+  "Type": "Weapon",
+  "Name": "Mummy"
+ },
+ {
+  "ItemName": "Bones2019",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 99,
+  "Type": "Weapon",
+  "Name": "Bones"
+ },
+ {
+  "ItemName": "Lights_G_2019",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 100,
+  "Type": "Weapon",
+  "Name": "Lights"
+ },
+ {
+  "ItemName": "ZombieG2018",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 101,
+  "Type": "Weapon",
+  "Name": "Zombie"
+ },
+ {
+  "ItemName": "PotionK2018",
+  "Rarity": "Uncommon",
+  "ItemType": "Knife",
+  "ID": 102,
+  "Type": "Weapon",
+  "Name": "Potion"
+ },
+ {
+  "ItemName": "Frozen_G_2019",
+  "Rarity": "Uncommon",
+  "ItemType": "Gun",
+  "ID": 103,
+  "Type": "Weapon",
+  "Name": "Frozen"
+ },
+ {
+  "ItemName": "Cane",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 104,
+  "Type": "Weapon",
+  "Name": "Cane"
+ },
+ {
+  "ItemName": "CaneGun",
+  "Rarity": "Rare",
+  "ItemType": "Gun",
+  "ID": 105,
+  "Type": "Weapon",
+  "Name": "Cane"
+ },
+ {
+  "ItemName": "Gingerbread2017",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 106,
+  "Type": "Weapon",
+  "Name": "Gingerbread"
+ },
+ {
+  "ItemName": "Jack",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 107,
+  "Type": "Weapon",
+  "Name": "Jack"
+ },
+ {
+  "ItemName": "SilentNight_G_2020",
+  "Rarity": "Rare",
+  "ItemType": "Gun",
+  "ID": 108,
+  "Type": "Weapon",
+  "Name": "Silent Night"
+ },
+ {
+  "ItemName": "VampireK2018",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 109,
+  "Type": "Weapon",
+  "Name": "Vampire"
+ },
+ {
+  "ItemName": "SnakebiteG",
+  "Rarity": "Rare",
+  "ItemType": "Gun",
+  "ID": 110,
+  "Type": "Weapon",
+  "Name": "Snakebite"
+ },
+ {
+  "ItemName": "OrangeMarble",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 111,
+  "Type": "Weapon",
+  "Name": "Orange Marble"
+ },
+ {
+  "ItemName": "CandySwirl_G_2019",
+  "Rarity": "Rare",
+  "ItemType": "Gun",
+  "ID": 112,
+  "Type": "Weapon",
+  "Name": "Candy Swirl"
+ },
+ {
+  "ItemName": "Aurora_G_2019",
+  "Rarity": "Rare",
+  "ItemType": "Gun",
+  "ID": 113,
+  "Type": "Weapon",
+  "Name": "Aurora"
+ },
+ {
+  "ItemName": "ToxicG",
+  "Rarity": "Rare",
+  "ItemType": "Gun",
+  "ID": 114,
+  "Type": "Weapon",
+  "Name": "Toxic"
+ },
+ {
+  "ItemName": "Bats",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 115,
+  "Type": "Weapon",
+  "Name": "Bats"
+ },
+ {
+  "ItemName": "GreenMarble",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 116,
+  "Type": "Weapon",
+  "Name": "Green Marble"
+ },
+ {
+  "ItemName": "SilentNight_K_2020",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 117,
+  "Type": "Weapon",
+  "Name": "Silent Night"
+ },
+ {
+  "ItemName": "MagmaK",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 118,
+  "Type": "Weapon",
+  "Name": "Magma"
+ },
+ {
+  "ItemName": "Dungeon",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 119,
+  "Type": "Weapon",
+  "Name": "Dungeon"
+ },
+ {
+  "ItemName": "Monster",
+  "Rarity": "Rare",
+  "ItemType": "Gun",
+  "ID": 120,
+  "Type": "Weapon",
+  "Name": "Monster"
+ },
+ {
+  "ItemName": "SnakebiteK",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 121,
+  "Type": "Weapon",
+  "Name": "Snakebite"
+ },
+ {
+  "ItemName": "CandySwirl_G_2019",
+  "Rarity": "Rare",
+  "ItemType": "Gun",
+  "ID": 122,
+  "Type": "Weapon",
+  "Name": "Candy Swirl"
+ },
+ {
+  "ItemName": "Icicles_G_2018",
+  "Rarity": "Rare",
+  "ItemType": "Gun",
+  "ID": 123,
+  "Type": "Weapon",
+  "Name": "Icicles"
+ },
+ {
+  "ItemName": "Cane_K_2018",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 124,
+  "Type": "Weapon",
+  "Name": "Cane"
+ },
+ {
+  "ItemName": "Aurora_K_2019",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 125,
+  "Type": "Weapon",
+  "Name": "Aurora"
+ },
+ {
+  "ItemName": "VampireG2018",
+  "Rarity": "Rare",
+  "ItemType": "Gun",
+  "ID": 126,
+  "Type": "Weapon",
+  "Name": "Vampire"
+ },
+ {
+  "ItemName": "ToxicK",
+  "Rarity": "Rare",
+  "ItemType": "Knife",
+  "ID": 127,
+  "Type": "Weapon",
+  "Name": "Toxic"
+ },
+ {
+  "ItemName": "Web",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 128,
+  "Type": "Weapon",
+  "Name": "Web"
+ },
+ {
+  "ItemName": "Tree",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 129,
+  "Type": "Weapon",
+  "Name": "Tree"
+ },
+ {
+  "ItemName": "TreeGun",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 130,
+  "Type": "Weapon",
+  "Name": "Tree"
+ },
+ {
+  "ItemName": "Bleed",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 131,
+  "Type": "Weapon",
+  "Name": "Rupture"
+ },
+ {
+  "ItemName": "PredatorKnife",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 132,
+  "Type": "Weapon",
+  "Name": "Predator"
+ },
+ {
+  "ItemName": "Emerald",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 133,
+  "Type": "Weapon",
+  "Name": "Emerald"
+ },
+ {
+  "ItemName": "Chromatic_K_2023",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 134,
+  "Type": "Weapon",
+  "Name": "Chromatic"
+ },
+ {
+  "ItemName": "GreenFire",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 135,
+  "Type": "Weapon",
+  "Name": "Green Fire"
+ },
+ {
+  "ItemName": "Cavern_G_2019",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 136,
+  "Type": "Weapon",
+  "Name": "Cavern"
+ },
+ {
+  "ItemName": "Overseer",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 137,
+  "Type": "Weapon",
+  "Name": "Overseer"
+ },
+ {
+  "ItemName": "Beach_K_2023",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 138,
+  "Type": "Weapon",
+  "Name": "Beach"
+ },
+ {
+  "ItemName": "GhostG2018",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 139,
+  "Type": "Weapon",
+  "Name": "Ghost"
+ },
+ {
+  "ItemName": "Broken_K_2023",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 140,
+  "Type": "Weapon",
+  "Name": "Broken"
+ },
+ {
+  "ItemName": "Aurora_G_2021",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 141,
+  "Type": "Weapon",
+  "Name": "Aurora"
+ },
+ {
+  "ItemName": "Arctic_G_2022",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 142,
+  "Type": "Weapon",
+  "Name": "Arctic"
+ },
+ {
+  "ItemName": "RedFire",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 143,
+  "Type": "Weapon",
+  "Name": "Red Fire"
+ },
+ {
+  "ItemName": "ScratchBlue",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 144,
+  "Type": "Weapon",
+  "Name": "Scratch"
+ },
+ {
+  "ItemName": "Spectral_K_2021",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 145,
+  "Type": "Weapon",
+  "Name": "Spectral"
+ },
+ {
+  "ItemName": "Icecracker_K_2020",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 146,
+  "Type": "Weapon",
+  "Name": "Icecracker"
+ },
+ {
+  "ItemName": "Traveler_G_2023",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 147,
+  "Type": "Weapon",
+  "Name": "Traveler"
+ },
+ {
+  "ItemName": "Scratch",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 148,
+  "Type": "Weapon",
+  "Name": "Scratch"
+ },
+ {
+  "ItemName": "Vampire_G_2022",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 149,
+  "Type": "Weapon",
+  "Name": "Vampire"
+ },
+ {
+  "ItemName": "Ginger_G_2018",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 150,
+  "Type": "Weapon",
+  "Name": "Ginger"
+ },
+ {
+  "ItemName": "EliteGreen",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 151,
+  "Type": "Weapon",
+  "Name": "Green Elite"
+ },
+ {
+  "ItemName": "EliteBlue",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 152,
+  "Type": "Weapon",
+  "Name": "Blue Elite"
+ },
+ {
+  "ItemName": "SantasSpirit",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 153,
+  "Type": "Weapon",
+  "Name": "Santa's Spirit"
+ },
+ {
+  "ItemName": "GhostK2018",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 154,
+  "Type": "Weapon",
+  "Name": "Ghost"
+ },
+ {
+  "ItemName": "Skulls",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 155,
+  "Type": "Weapon",
+  "Name": "Skulls"
+ },
+ {
+  "ItemName": "SantasMagic",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 156,
+  "Type": "Weapon",
+  "Name": "Santa's Magic"
+ },
+ {
+  "ItemName": "Icedriller_G_2020",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 157,
+  "Type": "Weapon",
+  "Name": "Icedriller"
+ },
+ {
+  "ItemName": "Cavern_K_2019",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 158,
+  "Type": "Weapon",
+  "Name": "Cavern"
+ },
+ {
+  "ItemName": "Latte_G_2023",
+  "Rarity": "Legendary",
+  "ItemType": "Gun",
+  "ID": 159,
+  "Type": "Weapon",
+  "Name": "Latte"
+ },
+ {
+  "ItemName": "Latte_K_2023",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 160,
+  "Type": "Weapon",
+  "Name": "Latte"
+ },
+ {
+  "ItemName": "CottonCandy",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 161,
+  "Type": "Weapon",
+  "Name": "Cotton Candy"
+ },
+ {
+  "ItemName": "Witched",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 162,
+  "Type": "Weapon",
+  "Name": "Witched"
+ },
+ {
+  "ItemName": "JD",
+  "Rarity": "Legendary",
+  "ItemType": "Knife",
+  "ID": 163,
+  "Type": "Weapon",
+  "Name": "JD"
+ }
+]
